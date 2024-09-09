@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\CSharpProject\bin\Debug\net8.0-windows\CSharpProject.exe
+C:\Users\usuario\Desktop\CSharpProject\bin\Debug\net8.0-windows\CSharpProject.deps.json
+C:\Users\usuario\Desktop\CSharpProject\bin\Debug\net8.0-windows\CSharpProject.runtimeconfig.json
+C:\Users\usuario\Desktop\CSharpProject\bin\Debug\net8.0-windows\CSharpProject.dll
+C:\Users\usuario\Desktop\CSharpProject\bin\Debug\net8.0-windows\CSharpProject.pdb
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.Form1.resources
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.AssemblyInfo.cs
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.dll
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\refint\CSharpProject.dll
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.pdb
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\CSharpProject.genruntimeconfig.cache
+C:\Users\usuario\Desktop\CSharpProject\obj\Debug\net8.0-windows\ref\CSharpProject.dll
